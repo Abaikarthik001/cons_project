@@ -63,3 +63,23 @@
     border-bottom: 1px solid white;
     transition: 0.5s;
 }
+
+.img-container{
+    height: 120% !important;
+    width: 90% !important;
+}
+.img-container_1{
+    height:120%!important;
+    width:90%!important;
+    margin-top:10%!important ;
+
+}
+.img-container_2{
+    height:68%!important;
+    width:90%!important;
+    margin-top:17%!important;
+
+}
+/* .footer2{
+    margin-top:40%!important;
+} */
